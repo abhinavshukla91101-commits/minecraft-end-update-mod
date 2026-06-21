@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "endupdate",
+  "version": "${version}",
+  "name": "End Update Mod",
+  "description": "Adds new mobs and blocks to the Minecraft End dimension",
+  "authors": [
+    "abhinavshukla91101"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.endupdate.EndUpdateMod"
+    ]
+  },
+  "mixins": []
+}
